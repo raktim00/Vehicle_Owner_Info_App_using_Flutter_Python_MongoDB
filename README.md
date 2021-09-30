@@ -8,4 +8,4 @@
 - Lastly Mobile App is showing us the details.
 
 ## The Architecture of VehicalInfo Application Look like :
-![VehicalInfo_Architecture](VehicalInfo_Architecture.png)
+![VehicalInfo_Architecture](VehicalInfo_Architecture.jpg)
